@@ -1,20 +1,24 @@
- ______   __  __   __   ______  ______     ______   __   ______  __  __   ______   ______   ______    
-/\  ___\ /\ \_\ \ /\ \ /\  ___\/\__  _\   /\  ___\ /\ \ /\  == \/\ \_\ \ /\  ___\ /\  == \ /\  ___\   
-\ \___  \\ \  __ \\ \ \\ \  __\\/_/\ \/   \ \ \____\ \ \\ \  _-/\ \  __ \\ \  __\ \ \  __< \ \___  \  
- \/\_____\\ \_\ \_\\ \_\\ \_\     \ \_\    \ \_____\\ \_\\ \_\   \ \_\ \_\\ \_____\\ \_\ \_\\/\_____\ 
-  \/_____/ \/_/\/_/ \/_/ \/_/      \/_/     \/_____/ \/_/ \/_/    \/_/\/_/ \/_____/ \/_/ /_/ \/_____/ 
-                                                                                                      
+   _____  __     _  ____ __                
+  / ___/ / /_   (_)/ __// /_               
+  \__ \ / __ \ / // /_ / __/               
+ ___/ // / / // // __// /_                 
+/_______/ /_//_//_/ __\__/                 
+  / ____/(_)____   / /_   ___   _____ _____
+ / /    / // __ \ / __ \ / _ \ / ___// ___/
+/ /___ / // /_/ // / / //  __// /   (__  ) 
+\____//_// .___//_/ /_/ \___//_/   /____/  
+        /_/                                
 
-/ *****************************************************************************************************************\
-Welcome to Shift Ciphers. Your goal is to decipher a series of encrypted messages to find Aunt Marcia's inheritence.
-Your are currently at the NAT Instance your journey will begin when you login into the host with the following
-information:
+Welcome to Shift Ciphers. On this adventure you will learn
+a few shift ciphers and some methods for decoding them.
 
+Your goal is to decipher a series of encrypted messages
+to find the location of Aunt Marcia's inheritence.
+
+You are currently at the NAT Instance, your journey begins
+with a letter from your Aunt.
+
+Log into the host with the following information:
 IP Address: 10.0.0.5
 User: augustus
-Password: julius
-
-For every instance you login to you will be greeted with instructions. Each machine will give you a list of 
-useful commands to solve each challenge. Use man pages to help find useful options for commands. For example
-if the instructions say to use the command 'ssh' entering 'man ssh' will print the man page.
-\ *****************************************************************************************************************/
+Password: <hidden>
